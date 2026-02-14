@@ -1,0 +1,8 @@
+{
+  "name": "AI WhatsApp Sales Agent",
+  "description": "A production-ready multi-tenant AI CRM for WhatsApp. Automate replies, qualify leads with Gemini, and manage sales conversations effectively.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
